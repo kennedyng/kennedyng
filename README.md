@@ -39,7 +39,8 @@ My intellectual curiosity drives me to be a lifelong learner. As a curious tech 
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kennedyng&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <!--- testing-->
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kennedyng&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
