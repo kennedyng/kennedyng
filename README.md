@@ -8,7 +8,7 @@
 
 
 ## Technologies I Use
-<div>
+
 
 <img align="left"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left"  src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -41,7 +41,6 @@ https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerR
 
 
 
-</div>
 
 
 ## About Me
@@ -52,10 +51,14 @@ My intellectual curiosity drives me to be a lifelong learner. As a curious tech 
 Here are some of the notable projects I've worked on. You can find more details about each project in their respective repositories.
 
 
-[Real Time Group Chat](https://chat-app-lilac-xi.vercel.ap): The application revolutionizes online communication by providing seamless, secure, and personalized group chat. With intuitive UI, secure authentication, and ecient message delivery, users enjoy an exceptional experience. RESTful APIs and role-based access control ensure privacy and data security. Developed collaboratively, the project delivers a robust and user-friendly chat application, transforming online collaboration. 
+[Real Time Group Chat](https://chat-app-lilac-xi.vercel.app): The application revolutionizes online communication by providing seamless, secure, and personalized group chat. With intuitive UI, secure authentication, and ecient message delivery, users enjoy an exceptional experience. RESTful APIs and role-based access control ensure privacy and data security. Developed collaboratively, the project delivers a robust and user-friendly chat application, transforming online collaboration. 
+
+[Cloud E-Bus Management Platform](https://modern-bus-seat-booking-system-ylub.vercel.app): The application revolutionizes online communication by providing seamless, secure, and personalized group chat. With intuitive UI, secure authentication, and ecient message delivery, users enjoy an exceptional experience. RESTful APIs and role-based access control ensure privacy and data security. Developed collaboratively, the project delivers a robust and user-friendly chat application, transforming online collaboration. 
 
 
-## Programming Languages, Tools, Libraries, Frameworks
+[Personal Portifolio](https://kennedy-amber.vercel.app/portfolio): The application revolutionizes online communication by providing seamless, secure, and personalized group chat. With intuitive UI, secure authentication, and ecient message delivery, users enjoy an exceptional experience. RESTful APIs and role-based access control ensure privacy and data security. Developed collaboratively, the project delivers a robust and user-friendly chat application, transforming online collaboration. 
+
+
 
 
 
