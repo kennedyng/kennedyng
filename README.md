@@ -6,12 +6,8 @@
 
 
 
-## About Me
-My intellectual curiosity drives me to be a lifelong learner. As a curious tech learner, I am currently exploring Web technology having the experience of the Software Service industry. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect.
 
-
-## Programming Languages, Tools, Libraries, Frameworks
-
+## Technologies I Use
 <div>
 
 <img align="left"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -47,10 +43,19 @@ https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerR
 
 </div>
 
+
+## About Me
+My intellectual curiosity drives me to be a lifelong learner. As a curious tech learner, I am currently exploring Web technology having the experience of the Software Service industry. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect.
+
+
 ## Projects
 Here are some of the notable projects I've worked on. You can find more details about each project in their respective repositories.
 
 
 [Real Time Group Chat](https://chat-app-lilac-xi.vercel.ap): The application revolutionizes online communication by providing seamless, secure, and personalized group chat. With intuitive UI, secure authentication, and ecient message delivery, users enjoy an exceptional experience. RESTful APIs and role-based access control ensure privacy and data security. Developed collaboratively, the project delivers a robust and user-friendly chat application, transforming online collaboration. 
+
+
+## Programming Languages, Tools, Libraries, Frameworks
+
 
 
