@@ -44,10 +44,12 @@ https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerR
 
 
 ## About Me
+
 My intellectual curiosity drives me to be a lifelong learner. As a curious tech learner, I am currently exploring Web technology having the experience of the Software Service industry. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect.
 
 
 ## Projects
+
 Here are some of the notable projects I've worked on. You can find more details about each project in their respective repositories.
 
 
@@ -59,6 +61,12 @@ Here are some of the notable projects I've worked on. You can find more details 
 [Personal Portifolio](https://kennedy-amber.vercel.app/portfolio) : The Website show cases my skill i have and my full personal details 
 
 
+
+## Final Words
+
+Thank you for visiting my profile! If you find my work interesting, don't forget to follow me and star some of my repositories. I look forward to collaborating with you on exciting projects in the future. Together, let's push the boundaries of what's possible!
+
+Happy coding! 😊
 
 
 
