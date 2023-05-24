@@ -74,7 +74,7 @@ My intellectual curiosity drives me to be a lifelong learner. As a curious tech 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,express,figma,firebase,github,html,idea,js,linux,md,materialui,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,socketio,vscode&perline=14" />
   </a>
 </p>
 
