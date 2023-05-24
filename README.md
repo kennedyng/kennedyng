@@ -12,6 +12,8 @@ My intellectual curiosity drives me to be a lifelong learner. As a curious tech 
 
 ## Programming Languages, Tools, Libraries, Frameworks
 
+<div>
+
 <img align="left"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left"  src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
@@ -41,6 +43,9 @@ My intellectual curiosity drives me to be a lifelong learner. As a curious tech 
 https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 
 
+
+
+</div>
 
 ## Projects
 Here are some of the notable projects I've worked on. You can find more details about each project in their respective repositories.
