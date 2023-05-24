@@ -25,8 +25,13 @@
 </div>
 
 
-My intellectual curiosity drives me to be a lifelong learner. As a curious tech learner, I am currently exploring Web technology having the experience of the Software Service industry. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect.....[Learn More About Me](https://discord.com/invite/p4TWyft886).
+My intellectual curiosity drives me to be a lifelong learner. As a curious tech learner, I am currently exploring Web technology having the experience of the Software Service industry. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect. [Learn More About Me ](https://discord.com/invite/p4TWyft886).
 <!--Intro end-->
+
+
+
+
+
 
 
 
@@ -68,13 +73,13 @@ My intellectual curiosity drives me to be a lifelong learner. As a curious tech 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I use👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,express,figma,firebase,github,html,idea,js,linux,md,materialui,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,socketio,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,express,figma,firebase,github,html,idea,js,linux,md,materialui,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
