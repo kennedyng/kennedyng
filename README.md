@@ -39,3 +39,13 @@ My intellectual curiosity drives me to be a lifelong learner. As a curious tech 
 <img align="left"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <img align="left"  src="
 https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+
+
+
+## Projects
+Here are some of the notable projects I've worked on. You can find more details about each project in their respective repositories.
+
+
+[Real Time Group Chat](https://chat-app-lilac-xi.vercel.ap): The application revolutionizes online communication by providing seamless, secure, and personalized group chat. With intuitive UI, secure authentication, and ecient message delivery, users enjoy an exceptional experience. RESTful APIs and role-based access control ensure privacy and data security. Developed collaboratively, the project delivers a robust and user-friendly chat application, transforming online collaboration. 
+
+
