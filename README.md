@@ -4,3 +4,8 @@
 
 
 <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyng&layout=donut" />
+
+
+
+
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
