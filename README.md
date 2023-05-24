@@ -53,10 +53,10 @@ Here are some of the notable projects I've worked on. You can find more details 
 
 [Real Time Group Chat](https://chat-app-lilac-xi.vercel.app) : The application revolutionizes online communication by providing seamless, secure, and personalized group chat. With intuitive UI, secure authentication, and ecient message delivery, users enjoy an exceptional experience. RESTful APIs and role-based access control ensure privacy and data security. Developed collaboratively, the project delivers a robust and user-friendly chat application, transforming online collaboration. 
 
-[Cloud E-Bus Management Platform](https://modern-bus-seat-booking-system-ylub.vercel.app) : The application revolutionizes online communication by providing seamless, secure, and personalized group chat. With intuitive UI, secure authentication, and ecient message delivery, users enjoy an exceptional experience. RESTful APIs and role-based access control ensure privacy and data security. Developed collaboratively, the project delivers a robust and user-friendly chat application, transforming online collaboration. 
+[Cloud E-Bus Management Platform](https://modern-bus-seat-booking-system-ylub.vercel.app) : Automate the manual process of buying and selling bus seats for Zambian public operators. Develop a user-friendly software solution that streamlines seat reservation, ticketing, and payment processes, improving eciency and convenience for passengers and operators alike 
 
 
-[Personal Portifolio](https://kennedy-amber.vercel.app/portfolio) : The application revolutionizes online communication by providing seamless, secure, and personalized group chat. With intuitive UI, secure authentication, and ecient message delivery, users enjoy an exceptional experience. RESTful APIs and role-based access control ensure privacy and data security. Developed collaboratively, the project delivers a robust and user-friendly chat application, transforming online collaboration. 
+[Personal Portifolio](https://kennedy-amber.vercel.app/portfolio) : The Website show cases my skill i have and my full personal details 
 
 
 
