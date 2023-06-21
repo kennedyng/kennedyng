@@ -25,7 +25,7 @@
 </div>
 
 
-My intellectual curiosity drives me to be a lifelong learner. As a curious tech learner, I am currently exploring Web technology having the experience of the Software Service industry. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect. [Learn More About Me ](https://kennedy-amber.vercel.app/).
+My intellectual curiosity drives me to be a lifelong learner. As a curious tech learner, I am currently exploring Web technology having the experience of the Software Service industry. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect. [Learn More About Me ](https://ngosa-page.vercel.app/).
 <!--Intro end-->
 
 
